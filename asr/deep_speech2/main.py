@@ -241,5 +241,5 @@ batch_size = 10
 epochs = 1
 libri_train_set = "train-clean-100"
 libri_test_set = "test-clean"
-"dastorat"
+
 main(learning_rate,batch_size,epochs,libri_train_set,libri_test_set,experiment)
