@@ -1,0 +1,3 @@
+torch
+torchaudio
+comet_ml[cpu_logging]
